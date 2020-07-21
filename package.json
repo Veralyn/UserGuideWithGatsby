@@ -1,0 +1,14 @@
+{
+  "name": "gatsbyproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby-source-filesystem": "^2.3.20"
+  }
+}
