@@ -2,6 +2,7 @@ import React from 'react'
 // import { css } from "@emotion/core"
 // import { rhythm } from "../utils/typography"
 // import { useStaticQuery, Link, graphql } from "gatsby"
+import {  Link } from "gatsby"
 
 export default function Navbar() {
     // const data = useStaticQuery(
@@ -18,7 +19,8 @@ export default function Navbar() {
     return (
       
       <nav className="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
-      <a className="navbar-brand col-md-3 col-lg-2 mr-0 px-3" href="https://getbootstrap.com/docs/4.5/examples/dashboard/#">Luminate</a>
+       <Link to={`/`} className="navbar-brand col-md-3 col-lg-2 mr-0 px-3" > Luminate</Link>
+      {/* <a className="navbar-brand col-md-3 col-lg-2 mr-0 px-3" href="/">Luminate</a> */}
       <button className="navbar-toggler position-absolute d-md-none collapsed" type="button" data-toggle="collapse" data-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
       </button>
