@@ -1,20 +1,20 @@
 import React from 'react'
-import { css } from "@emotion/core"
-import { rhythm } from "../utils/typography"
-import { useStaticQuery, Link, graphql } from "gatsby"
+// import { css } from "@emotion/core"
+// import { rhythm } from "../utils/typography"
+// import { useStaticQuery, Link, graphql } from "gatsby"
 
 export default function Navbar() {
-    const data = useStaticQuery(
-        graphql`
-          query {
-            site {
-              siteMetadata {
-                title
-              }
-            }
-          }
-        `
-      )
+    // const data = useStaticQuery(
+    //     graphql`
+    //       query {
+    //         site {
+    //           siteMetadata {
+    //             title
+    //           }
+    //         }
+    //       }
+    //     `
+    //   )
     return (
       
       <nav className="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">

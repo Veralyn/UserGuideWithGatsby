@@ -4,6 +4,7 @@ import { css } from "@emotion/core"
 import { rhythm } from "../utils/typography"
 import Layout from "../components/layout"
 import 'bootstrap/dist/css/bootstrap.min.css';
+import '../styles/dashboard.css';
 
 export default function Home({data}) {
   return (
