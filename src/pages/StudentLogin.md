@@ -20,6 +20,7 @@ Students without an account can access the system from the homepage by
   * Enter your Email address
   * Enter your Password
   * Click on the login button to direct you to the student dashboard
+  [alt text](/images/loginForm.jpg "Title") 
 
 
 #### How to logout Student from the System
