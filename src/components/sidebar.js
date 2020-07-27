@@ -6,5 +6,6 @@ export default function Sidebar() {
         <div>
         This is a side bar
         </div>
+        
     )
 }
