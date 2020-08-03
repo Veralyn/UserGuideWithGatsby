@@ -1,9 +1,9 @@
 ---
 menu: "School"
 menuOrder: 3
-submenu: "School Login"
-submenuOrder: 2
-title: "School Login"
+submenu: "School Signup"
+submenuOrder: 1
+title: "School Signup"
 date: "2020-07-27"
 ---
 
