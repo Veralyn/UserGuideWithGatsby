@@ -1,0 +1,14 @@
+query MyQuery {
+  allMarkdownRemark(filter: {}) {
+    group(field: frontmatter___menuOrder) {
+      edges {
+        node {
+          frontmatter {
+            menu
+            menuOrder
+          }
+        }
+      }
+    }
+  }
+}

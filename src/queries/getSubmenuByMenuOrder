@@ -1,0 +1,12 @@
+query MyQuery {
+  allMarkdownRemark(filter: {frontmatter: {menuOrder: {eq: 3}}}) {
+    edges {
+      node {
+        frontmatter {
+          submenu
+          submenuOrder
+        }
+      }
+    }
+  }
+}
