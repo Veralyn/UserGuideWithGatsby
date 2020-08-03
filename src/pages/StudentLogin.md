@@ -30,9 +30,9 @@ Students without an account can access the system from the homepage by
   * Click on **Login** button to direct you to Student login form
   * Enter your Email address
   * Enter your Password
-  * Click on the **login** button to direct you to the student page
   
-
+  * Click on the login button to direct you to the student dashboard
+  [alt text](/images/loginForm.jpg "Title") 
 
 #### How to logout Student from the System
 

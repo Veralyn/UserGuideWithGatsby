@@ -2,14 +2,14 @@
 title: "Introduction"
 date: "2017-08-21"
 ---
-## About Luminate
+#### About Luminate
 
   Luminate is a learning management platform that aggregates the creation
   and consumption of education content for smarter and more impactful
   learning. The solution offers access to tons of educational content for
   online learning at all levels..
 
-## Objectives
+#### Objectives
 
 Luminate is a knowledge bank where teachers and learners of all levels
 converge to exchange values.
@@ -18,28 +18,28 @@ for everyone and can connect with any device. It allows students find
 their learning paths (pre-school, Basic Learning, High School, Tertiary
 Learning, Self-Learning, and Crowd Learning)
 
-## Features
+#### Features
 
 Learn about the features we have, and who Luminate is designed for.We have
       three main users of luminate at the moment. (Students, Teachers, and
       Content Creators).
 
-### Students
+##### Student
 
 Everyone seeking educational information is a learner; from Pre-School to
       Basic learning, Higher Learning, and Self development.
 
-### Teachers
+#### Instructors
 
-Teachers can utilize educational content on the platform to optimise their
+instructors can utilize educational content on the platform to optimise their
       jobs and offer educational value.
 
-### Content Creators
+#### Content Creators
 
 Providers of educational content can also converge to share knowledge in
 exchange for (monetary) value.
 
-## Launching Luminate
+#### Launching Luminate
 
 You can launch the Luminate solution from your browser via this link
 <https://www.luminate.ng>. The System solution is built for browser
